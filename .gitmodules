@@ -1,0 +1,9 @@
+[submodule "watafall"]
+	path = watafall
+	url = https://github.com/natevw/watafall.git
+[submodule "rpitx"]
+	path = rpitx
+	url = https://github.com/F5OEO/rpitx.git
+[submodule "csdr"]
+	path = csdr
+	url = https://github.com/simonyiszk/csdr.git
