@@ -6,7 +6,17 @@ This repo contains a bunch of utilities used during my Radio Workshop at Maker L
     git clone --recursive https://github.com/natevw/makerland-radio.git
     cd makerland-radio
     #git submodule update --init    # (if you forgot --recursive above)
+
+
+To build stuff:
+
+    cd csdr   # or csdr-osx if on macoS
+    make
     
+    
+    
+    /Applications/Gqrx.app/Contents/MacOS/rtl_sdr
+
 
 We'll be receiving on a laptop or other computer with display, and transmitting from some Raspberry Pis on the network — so clone this repo (recursively) to both your laptop and on the "radiopi" you are accessing.
 

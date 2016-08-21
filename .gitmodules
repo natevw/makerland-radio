@@ -7,3 +7,6 @@
 [submodule "csdr"]
 	path = csdr
 	url = https://github.com/simonyiszk/csdr.git
+[submodule "csdr-osx"]
+	path = csdr-osx
+	url = https://github.com/sgentle/csdr.git
